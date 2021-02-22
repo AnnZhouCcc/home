@@ -26,6 +26,10 @@ googleAnalytics = "UA-XXXXXXXX-Y"
     "My research interests lie at the intersection of theory and practice. I am excited to work on [algorithm design and analysis when applied to distributed and parallel systems](), or [solve system-related problems from a theoretical standpoint](), be it time complexity or programming model.",
     "I publish under Anchengcheng Zhou."]
 
+[params.publication]
+    enable = true
+    title = "Publications"
+
 [params.process]
     enable = true
     title = "My Process"
